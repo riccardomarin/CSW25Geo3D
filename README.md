@@ -11,10 +11,13 @@ Javascript version: https://www.meshlabjs.net/
 https://lumalabs.ai/interactive-scenes \
 https://lumalabs.ai/dashboard/captures
 
+- Blendify
+https://virtualhumans.mpi-inf.mpg.de/blendify/
+
 ## Notebooks
 1) Visualize and Process:\
    https://colab.research.google.com/github/riccardomarin/CSW25Geo3D/blob/main/CSW25_VisualizeAndProcess.ipynb
 
-3) Learning:\
+2) Learning:\
    https://colab.research.google.com/github/riccardomarin/CSW25Geo3D/blob/main/CSW_Learning.ipynb
 
